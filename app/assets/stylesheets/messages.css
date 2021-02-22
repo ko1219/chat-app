@@ -16,13 +16,13 @@
   align-items: center;
 }
 
-.user-name {
+.user-name a {
   color: #fafafa;
   font-size: 16px;
   text-decoration: none;
 }
 
-.create-button {
+.create-room a {
   padding: 14px;
   color: deepskyblue;
   font-size: 10px;
@@ -41,7 +41,7 @@
   padding: 20px 0 40px;
 }
 
-.room-name {
+.room-name a {
   color: white;
   text-decoration: none;
 }
